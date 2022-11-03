@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 We will edit line.
 welcome back 
-hi
+We will edit this line.
+This is merged line.
